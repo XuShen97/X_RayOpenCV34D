@@ -62,4 +62,4 @@ That's all I modified when developing.
 10. Gamma Correction(GrayScale included)
 	Gamma = 0.7 here, in line 229. **should be modified when transplanting.**
 
-** Important: Parameters are all fixed in this program, since the main activity has fixed by 10 buttons. But functions are all implemented in this repo. What leave to you are designing the input/output interfaces to meet your software design.**
+** Important: Parameters are all fixed in this program, since the main activity has fixed by 10 buttons. But functions are all implemented in this repo. What leave to you are designing the input/output interfaces to meet your software design. **
